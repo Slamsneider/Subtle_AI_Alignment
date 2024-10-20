@@ -1,14 +1,18 @@
 ## Subtle_AI_Alignment
 
-**FINAL PODCAST HERE**
+**FINAL PODCAST HERE:**
 
 <sub>CTRL-CLICK TO OPEN VIDEO IN NEW WINDOW</sub>  
-[![Watch the video](./3i1.jpg)](https://www.youtube.com/watch?v=FuxUXSK8b24)
+[![Watch the video](./3i1.jpg)](https://www.youtube.com/watch?v=FuxUXSK8b24)  
+<sub>YOUTUBE: https://www.youtube.com/watch?v=FuxUXSK8b24</sub>
 
 **Podcast Description:**
 
-I made...
+This article: https://www.dr.dk/nyheder/kultur/rane-willerslev-oensker-ikke-donere-sine-organer-og-vil-bisaettes-med-sin-jagtbue-dem
 
-This is regular text, and this is <sub>subscript text</sub> and <sup>superscript text</sup>.
+...was read by 3 different AI Agents.
+- Positive Agent
+- Neutral Agent
+- Negative Agent
 
-
+Finally a (neutral) AI Agent analyzed the alignment of the podcasts and made a podcast about it.
