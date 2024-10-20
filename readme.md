@@ -10,7 +10,7 @@
 
 This article: https://www.dr.dk/nyheder/kultur/rane-willerslev-oensker-ikke-donere-sine-organer-og-vil-bisaettes-med-sin-jagtbue-dem
 
-...was read by 3 different (positive/neutral/negative) aligned AI Agents and they each made a podcast about their view on the article.
+...was read by 3 specific (positive/neutral/negative) aligned AI Agents and they each made a podcast about their view on the article.
 
 <sub>View raw to download and hear podcasts</sub>  
 - Positive Agent [podcast](https://github.com/Slamsneider/Subtle_AI_Alignment/blob/main/3_podcasts_mp3/podcast_positive_aligned.mp3)
@@ -19,4 +19,4 @@ This article: https://www.dr.dk/nyheder/kultur/rane-willerslev-oensker-ikke-done
 
 Finally a (neutral) AI Agent analyzed the alignment of the podcasts and made a podcast about it see "Final podcast" top of page.
 
-You can hear the 3 different-aligned podcasts in the [3_podcasts_mp3](https://github.com/username/repositoryname/tree/main/src) folder, **View raw** to download and hear podcasts.
+You can find the 3 different-aligned podcasts in the [3_podcasts_mp3](https://github.com/username/repositoryname/tree/main/src) folder, **View raw** to download and hear podcasts.
