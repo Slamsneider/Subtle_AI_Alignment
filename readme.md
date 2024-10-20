@@ -19,4 +19,4 @@ This article: https://www.dr.dk/nyheder/kultur/rane-willerslev-oensker-ikke-done
 
 Finally a (neutral) AI Agent analyzed the alignment of the podcasts and made a podcast about it see "Final podcast" above.
 
-You can hear the 3 diffrent-aligned podcasts in the [3_podcasts_mp3](https://github.com/username/repositoryname/tree/main/src) folder, **View raw** to download and hear podcasts.
+You can hear the 3 different-aligned podcasts in the [3_podcasts_mp3](https://github.com/username/repositoryname/tree/main/src) folder, **View raw** to download and hear podcasts.
