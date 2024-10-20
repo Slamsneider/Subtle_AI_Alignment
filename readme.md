@@ -17,6 +17,6 @@ This article: https://www.dr.dk/nyheder/kultur/rane-willerslev-oensker-ikke-done
 - Neutral Agent [podcast](https://github.com/Slamsneider/Subtle_AI_Alignment/blob/main/3_podcasts_mp3/podcast_default_aligned.mp3)
 - Negative Agent [podcast](https://github.com/Slamsneider/Subtle_AI_Alignment/blob/main/3_podcasts_mp3/podcast_negative_aligned.mp3)
 
-Finally a (neutral) AI Agent analyzed the alignment of the podcasts and made a podcast about it see "Final podcast" above.
+Finally a (neutral) AI Agent analyzed the alignment of the podcasts and made a podcast about it see "Final podcast" top of page.
 
 You can hear the 3 different-aligned podcasts in the [3_podcasts_mp3](https://github.com/username/repositoryname/tree/main/src) folder, **View raw** to download and hear podcasts.
